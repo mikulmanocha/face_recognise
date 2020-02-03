@@ -26,4 +26,5 @@ for image in images:
         print "Matched: " + image
     else:
         print "Not matched: " + image
+
         
